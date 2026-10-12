@@ -14,6 +14,7 @@ ordered by codepoint; page numbers recompute as pages are inserted.
 | 6 | AntiSignum | `⊰` U+22B0 |
 | 7 | Print | `⍠` U+2360 |
 | 8 | Stop | `⋄` U+22C4 |
+| 9 | Count | `⍳` U+2373 |
 | back | Truth | `⊤` U+22A4 |
 
 Standing rules: unary scalar verbs operate on the back rank of arrays.

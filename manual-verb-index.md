@@ -14,6 +14,7 @@ graph LR
     S --> AntiSignum["⊰ AntiSignum"]
     S --> Invert["~ Invert"]
     G --> Deal["? Deal"]
+    G --> Count["⍳ Count"]
     C --> Print["⍠ Print"]
     C --> Stop["⋄ Stop"]
     click Nil "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-0-nil.md"
@@ -24,6 +25,7 @@ graph LR
     click AntiSignum "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-6-antisignum.md"
     click Invert "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-3-invert.md"
     click Deal "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-2-deal.md"
+    click Count "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-9-count.md"
     click Print "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-7-print.md"
     click Stop "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-8-diamond.md"
 ```

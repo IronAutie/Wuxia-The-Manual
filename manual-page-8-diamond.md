@@ -9,4 +9,4 @@ Examples: TBD.
 
 <p align="right">U+22C4</p>
 
-[👈](manual-page-7-print.md) [👉](manual-page-back-truth.md)
+[👈](manual-page-7-print.md) [👉](manual-page-9-count.md)
