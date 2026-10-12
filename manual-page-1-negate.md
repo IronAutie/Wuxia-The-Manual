@@ -3,7 +3,7 @@
 
 Negate changes the sign of the number.
 
-Behaves as unary minus: a back-rank operator, unary upon scalars and arrays.
+Monadic `-` behaves as unary minus: a back-rank operator, unary upon scalars and arrays. Dyadic `-` is difference: it subtracts its right argument from its left.
 
 Examples: TBD.
 

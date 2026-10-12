@@ -14,4 +14,4 @@ Examples:
 
 <p align="right">U+21D2</p>
 
-[👈](manual-page-3-invert.md) [👉](manual-page-5-signum.md)
+[👈](manual-page-3-invert.md) [👉](manual-page-5-collate.md)

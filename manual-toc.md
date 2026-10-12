@@ -9,19 +9,24 @@
 | 2 | Deal | `?` U+003F |
 | 3 | Invert | `~` U+007E |
 | 4 | Implies | `⇒` U+21D2 |
-| 5 | Signum | `∓` U+2213 |
-| 6 | AntiSignum | `⊰` U+22B0 |
-| 7 | Print | `⍠` U+2360 |
-| 8 | Stop | `⋄` U+22C4 |
-| 9 | Count | `⍳` U+2373 |
-| 10 | Nabla | `∇` U+2207 |
-| 11 | Cut | `⋮` U+22EE |
-| 12 | Anticut | `⋯` U+22EF |
-| 13 | Complement | `≀` U+2240 |
-| 14 | Diction | `¡` U+00A1 |
-| 15 | Decide | `¿` U+00BF |
-| 16 | forall | `∀` U+2200 |
-| 17 | Forsome | `∃` U+2203 |
+| 5 | Collate | `±` U+00B1 |
+| 6 | Print | `⍠` U+2360 |
+| 7 | Stop | `⋄` U+22C4 |
+| 8 | Count | `⍳` U+2373 |
+| 9 | Nabla | `∇` U+2207 |
+| 10 | Cut | `⋮` U+22EE |
+| 11 | Anticut | `⋯` U+22EF |
+| 12 | Complement | `≀` U+2240 |
+| 13 | Diction | `¡` U+00A1 |
+| 14 | Decide | `¿` U+00BF |
+| 15 | forall | `∀` U+2200 |
+| 16 | Forsome | `∃` U+2203 |
+| 17 | Plus | `+` U+002B |
+| 18 | Star | `*` U+002A |
+| 19 | Slash | `/` U+002F |
+| 20 | Percent | `%` U+0025 |
+| 21 | Quotient | `÷` U+00F7 |
+| 22 | Back Rank (rule) | — |
 | back | Truth | `⊤` U+22A4 |
 
 ## Chapter 2: Nouns

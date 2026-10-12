@@ -18,4 +18,4 @@ Examples:
 
 <p align="right">U+22A4</p>
 
-[👈](manual-page-17-forsome.md) [👉](manual-chapter-2-nouns.md)
+[👈](manual-page-22-back-rank.md) [👉](manual-chapter-2-nouns.md)
