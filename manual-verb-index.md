@@ -1,7 +1,7 @@
 # Verb Index
 
 ```mermaid
-graph TD
+graph LR
     V["Verbs"] --> T["Truth values"]
     V --> S["Sign and negation"]
     V --> G["Generation"]
