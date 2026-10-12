@@ -4,4 +4,8 @@ Back-rank operations transform the values of a dictionary, similar to the back r
 
 Most monadics have a back-rank mode when exposed to scalars, arrays, and dictionaries: given a scalar, they operate directly; given an array, they operate on the back rank; given a dictionary, they transform its values.
 
+Back-rank operations are effectively comprehensions.
+
+Signum and Collate together are a generalized comprehension.
+
 [👈](manual-page-21-quotient.md) [👉](manual-page-back-truth.md)
