@@ -8,4 +8,6 @@ Back-rank operations are effectively comprehensions.
 
 Signum and Collate together are a generalized comprehension.
 
+The scalar, array, and dictionary forms of the argument form the space bound of the comprehension.
+
 [👈](manual-page-21-quotient.md) [👉](manual-page-back-truth.md)
