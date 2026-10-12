@@ -1,13 +1,11 @@
 <p align="right">~</p>
 <h1 align="center">Invert</h1>
 
-[One-sentence summary pending.]
+Invert is monadic logical negation.
 
-Monadic only.
+Monadic only. With a scalar argument: `~ 0` is `1`, `~ 1` is `0`. Like the other unary scalar verbs, it operates on array back ranks.
 
-With a scalar argument behaves as expected: `~ 0` is `1`, `~ 1` is `0`.
-
-Examples (draft — mirroring Nil, with 0 and 1):
+Examples:
 
 - #0: `~ 0` ⍠ 1 ⋄
 - #1: `~ 1` ⍠ 0 ⋄

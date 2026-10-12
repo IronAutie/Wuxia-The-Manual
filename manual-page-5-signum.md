@@ -1,9 +1,9 @@
 <p align="right">∓</p>
 <h1 align="center">Signum</h1>
 
-[One-sentence summary pending.]
+Signum is the traditional mathematical operator.
 
-Just like math signum. Back rank scalar unary, like the similar verbs.
+Less than zero yields minus one; greater than zero yields one; zero yields zero. A scalar back-rank operator.
 
 Examples:
 

@@ -13,4 +13,4 @@ Further examples: TBD.
 
 <p align="right">U+2373</p>
 
-[👈](manual-page-8-diamond.md) [👉](manual-page-back-truth.md)
+[👈](manual-page-8-diamond.md) [👉](manual-page-10-nabla.md)

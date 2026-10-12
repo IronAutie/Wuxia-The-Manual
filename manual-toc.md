@@ -14,6 +14,11 @@
 | 7 | Print | `⍠` U+2360 |
 | 8 | Stop | `⋄` U+22C4 |
 | 9 | Count | `⍳` U+2373 |
+| 10 | Nabla | `∇` U+2207 |
+| 11 | Cut | `⋮` U+22EE |
+| 12 | Anticut | `⋯` U+22EF |
+| 13 | Complement | `≀` U+2240 |
+| 14 | Diction | `¡` U+00A1 |
 | back | Truth | `⊤` U+22A4 |
 
 ## Chapter 2: Nouns

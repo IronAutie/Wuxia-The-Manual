@@ -1,11 +1,9 @@
 <p align="right">-</p>
 <h1 align="center">Negate</h1>
 
-[One-sentence summary pending.]
+Negate changes the sign of the number.
 
-Behaves as unary minus.
-
-Unary upon scalars and arrays.
+Behaves as unary minus: a back-rank operator, unary upon scalars and arrays.
 
 Examples: TBD.
 
