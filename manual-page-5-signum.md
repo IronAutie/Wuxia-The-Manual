@@ -1,6 +1,5 @@
-# Signum — Page 5
-
-∓ | U+2213
+<p align="right">∓</p>
+<h1 align="center">Signum</h1>
 
 [One-sentence summary pending.]
 
@@ -11,3 +10,7 @@ Examples:
 - #0: ∓ 5 ⍠ 1 ⋄
 - #1: ∓ 0 ⍠ 0 ⋄
 - #2: ∓ ¯3 ⍠ ¯1 ⋄
+
+<p align="right">U+2213</p>
+
+[👈](manual-page-4-implies.md) [👉](manual-page-6-antisignum.md)

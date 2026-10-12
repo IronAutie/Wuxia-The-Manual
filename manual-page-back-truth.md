@@ -1,6 +1,5 @@
-# Truth — Back Page
-
-⊤ | U+22A4
+<p align="right">⊤</p>
+<h1 align="center">Truth</h1>
 
 Truth represents Verum and is generated as the positive result of conditional verbs.
 
@@ -16,3 +15,7 @@ Examples:
 - #3: ⊤ ⍠ ⇒ ⊤ ⋄
 
 (These show Truth as noun and verb.)
+
+<p align="right">U+22A4</p>
+
+[👈](manual-page-8-diamond.md) [👉](manual-chapter-2-nouns.md)
