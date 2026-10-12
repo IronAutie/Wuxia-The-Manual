@@ -8,12 +8,12 @@ A Nil is not an error. It is a first class object with expected actions and valu
 
 Examples:
 
-- #0: ⇒ ∅ ∅ : ⇒ ⊤ ⋄
-- #1: ⇒ ⊤ ⊤ : ⇒ ⊤ ⋄
-- #2: ⇒ ⊤ ∅ : ⇒ ∅ ⋄
-- #3: ⇒ ∅ ⊤ : ⇒ ∅ ⋄
-- #4: ∅ ∅ : ⇒ ⊤ ⋄
-- #5: ∅ ⊤ : ⇒ ∅ ⋄
-- #6: ∅ : ⇒ ∅ ⋄
+- #0: ⇒ ∅ ∅ ⍠ ⇒ ⊤ ⋄
+- #1: ⇒ ⊤ ⊤ ⍠ ⇒ ⊤ ⋄
+- #2: ⇒ ⊤ ∅ ⍠ ⇒ ∅ ⋄
+- #3: ⇒ ∅ ⊤ ⍠ ⇒ ∅ ⋄
+- #4: ∅ ∅ ⍠ ⇒ ⊤ ⋄
+- #5: ∅ ⊤ ⍠ ⇒ ∅ ⋄
+- #6: ∅ ⍠ ⇒ ∅ ⋄
 
 (These show Nil as noun and verb.)

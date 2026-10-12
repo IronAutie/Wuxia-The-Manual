@@ -10,9 +10,9 @@ Truth is a first class object whose value is the result of certain conditionals.
 
 Examples:
 
-- #0: ⇒ ⊤ ⊤ : ⇒ ⊤ ⋄
-- #1: ⊤ ⊤ : ⇒ ⊤ ⋄
-- #2: ⊤ ∅ : ⇒ ∅ ⋄
-- #3: ⊤ : ⇒ ⊤ ⋄
+- #0: ⇒ ⊤ ⊤ ⍠ ⇒ ⊤ ⋄
+- #1: ⊤ ⊤ ⍠ ⇒ ⊤ ⋄
+- #2: ⊤ ∅ ⍠ ⇒ ∅ ⋄
+- #3: ⊤ ⍠ ⇒ ⊤ ⋄
 
 (These show Truth as noun and verb.)
