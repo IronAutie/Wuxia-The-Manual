@@ -16,14 +16,14 @@ graph LR
     G --> Deal["? Deal"]
     C --> Print["⍠ Print"]
     C --> Stop["⋄ Stop"]
-    click Nil "manual-page-0-nil.md"
-    click Truth "manual-page-back-truth.md"
-    click Implies "manual-page-4-implies.md"
-    click Negate "manual-page-1-negate.md"
-    click Signum "manual-page-5-signum.md"
-    click AntiSignum "manual-page-6-antisignum.md"
-    click Invert "manual-page-3-invert.md"
-    click Deal "manual-page-2-deal.md"
-    click Print "manual-page-7-print.md"
-    click Stop "manual-page-8-diamond.md"
+    click Nil "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-0-nil.md"
+    click Truth "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-back-truth.md"
+    click Implies "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-4-implies.md"
+    click Negate "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-1-negate.md"
+    click Signum "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-5-signum.md"
+    click AntiSignum "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-6-antisignum.md"
+    click Invert "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-3-invert.md"
+    click Deal "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-2-deal.md"
+    click Print "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-7-print.md"
+    click Stop "https://github.com/IronAutie/Wuxia-The-Manual/blob/main/manual-page-8-diamond.md"
 ```
