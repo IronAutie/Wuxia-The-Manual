@@ -28,6 +28,10 @@
 
 Dungeon objects, food, classes, and the names that bind them.
 
+### Dungeon Verbs
+
+Up and Down live here: see Dungeon Verbs.
+
 ## Chapter 3: Everything Else
 
 Zens and the rest: the philosophy the language is built on.
