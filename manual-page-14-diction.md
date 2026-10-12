@@ -13,4 +13,4 @@ Further examples: TBD.
 
 <p align="right">U+00A1</p>
 
-[👈](manual-page-13-complement.md) [👉](manual-page-back-truth.md)
+[👈](manual-page-13-complement.md) [👉](manual-page-15-decide.md)

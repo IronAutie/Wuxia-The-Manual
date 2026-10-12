@@ -19,6 +19,9 @@
 | 12 | Anticut | `⋯` U+22EF |
 | 13 | Complement | `≀` U+2240 |
 | 14 | Diction | `¡` U+00A1 |
+| 15 | Decide | `¿` U+00BF |
+| 16 | forall | `∀` U+2200 |
+| 17 | Forsome | `∃` U+2203 |
 | back | Truth | `⊤` U+22A4 |
 
 ## Chapter 2: Nouns
