@@ -11,7 +11,7 @@ Bare `± V` — Collate with only a value — is sugar for monadic signum.
 
 `± Z V` replaces V with Z upon V when V is zero.
 
-`± N G V` replaces V with N upon V when V < 0, and with G upon V when V > 0.
+`± N G V` replaces V with N upon V when V ≤ 0, and with G upon V when V > 0. So `± E G (A=B)` is if/else on a boolean comparison: false (0) takes E, true (1) takes G.
 
 When given an array, Collate treats each row of the array as its own train upon V. This transforms arrays.
 
