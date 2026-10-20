@@ -1,6 +1,6 @@
 # Wuxia, The Manual — Table of Contents
 
-## Chapter 1: Verbs
+## Chapter 1: Style
 
 | Page | Verb | Glyph |
 |------|------|-------|
@@ -33,6 +33,7 @@
 
 Dungeon objects, food, classes, and the names that bind them.
 
+
 ### Dungeon Verbs
 
 Up and Down live here: see [Dungeon Verbs](manual-dungeon-verbs.md).
@@ -40,3 +41,7 @@ Up and Down live here: see [Dungeon Verbs](manual-dungeon-verbs.md).
 ## Chapter 3: Everything Else
 
 Zens and the rest: the philosophy the language is built on.
+
+## Final Chapter: Dungeon
+
+[Dungeon](dungeon-glyphs.md) — places, classes, objects, entities, food, and species, moved out of the glyph dictionary 2026-10-20.

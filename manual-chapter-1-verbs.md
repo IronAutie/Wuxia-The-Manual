@@ -1,4 +1,4 @@
-# Chapter 1: Verbs
+# Chapter 1: Style
 
 Every verb in Wuxia, one page each. Pages between first and last are
 ordered by codepoint; page numbers recompute as pages are inserted.
