@@ -44,6 +44,21 @@ Hardcover, 6" x 9". Black, copper tracing, silk bookmark.
   its name at top center.
 - Final chapter: Dungeon. The dungeon glyphs (dungeon-glyphs.md):
   Places, Classes, Objects, Entities, Food, Species inheritance.
+  Filled 2026-10-20, similar to Style: a title page per section,
+  quartered pages, meanings in the centers, overflows on their own
+  pages. The Species declarations stand as quarters of their own:
+  the Inherits glyph, the species as binding, the declaration in
+  the center. A species has no glyph of its own yet, so its
+  quarter carries U+2047, the double question mark: in this book
+  that glyph means a todo, a glyph not yet assigned. A species
+  takes its own glyph from the book's tables first, then from the
+  display.c codepoint table in the NetHack tree. After that pass,
+  15 quarters remain todos: VampireLady, VampireLord, Nosferatu,
+  BabyDragon, Dragon, the four Merfolk, GrandMaster, and the
+  IntegerBounded properties (max, min, epsilon, nabla). The book is
+  one volume: Key, Contents, Style,
+  Dungeon, and the two indexes at the very back covering both
+  chapters.
 - A DIY chapter: the holographic display (repo: Wuxia-Display).
 
 ## Front matter
